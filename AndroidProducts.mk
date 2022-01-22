@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_lmi.mk
+    $(LOCAL_DIR)/awaken_lmi.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_lmi-userdebug
+    awaken_lmi-userdebug
